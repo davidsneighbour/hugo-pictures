@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.13 (2022-01-16)
+
+
+### Chore
+
+* **deps:** update dependencies ([cb33b3c](https://github.com/dnb-org/dnb-hugo-pictures/commit/cb33b3cecf134455b695d83df8d6dc222b67747c))
+* fix repo layout and versioning ([8014d1b](https://github.com/dnb-org/dnb-hugo-pictures/commit/8014d1be8ab9171f7dddcc96d14ea93c54fbf4de))
+* initial commit, adding module config ([627b0db](https://github.com/dnb-org/dnb-hugo-pictures/commit/627b0dbfcc1b8a3c96184d4bb7a4ba871c7792e4))
+* initial commit, current version ([c98fb25](https://github.com/dnb-org/dnb-hugo-pictures/commit/c98fb2501f725a6df988f207023580f427da64df))
+
 ### [0.0.12](https://github.com/dnb-org/shortcodes/compare/pictures/v0.0.11...pictures/v0.0.12) (2021-10-29)
 
 
