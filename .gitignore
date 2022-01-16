@@ -1,7 +1,4 @@
-package-lock.json
 bin/replacements
-scratch/*
-scratch.*
 
 # Created by https://www.toptal.com/developers/gitignore/api/go,hugo,node,phpstorm
 # Edit at https://www.toptal.com/developers/gitignore?templates=go,hugo,node,phpstorm
