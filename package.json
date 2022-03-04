@@ -9,7 +9,7 @@
     "url": "https://github.com/dnb-org/dnb-hugo-pictures/issues"
   },
   "devDependencies": {
-    "@dnb-org/bootstrap-config": "^3.5.6",
+    "@dnb-org/bootstrap-config": "^3.5.7",
     "@dnb-org/cypress-config": "^3.5.6",
     "@dnb-org/eslint-config": "^3.5.7",
     "@dnb-org/prettier-config": "^3.5.7",
