@@ -11,10 +11,10 @@
   "devDependencies": {
     "@dnb-org/bootstrap-config": "^3.5.9",
     "@dnb-org/cypress-config": "^3.5.9",
-    "@dnb-org/eslint-config": "^3.5.11",
+    "@dnb-org/eslint-config": "^3.5.12",
     "@dnb-org/prettier-config": "^3.5.10",
     "@dnb-org/standard-version-config": "^3.5.9",
-    "@dnb-org/tools": "^3.5.9"
+    "@dnb-org/tools": "^3.5.10"
   },
   "scripts": {
     "clean": "run-p clean:**",
