@@ -1,6 +1,6 @@
 [hugoVersion]
 extended = true
-min = "0.64"
+min = "0.95.0"
 
 [[mounts]]
 source = 'data'
