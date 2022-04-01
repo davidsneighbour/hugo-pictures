@@ -3,6 +3,10 @@ extended = true
 min = "0.64"
 
 [[mounts]]
+source = 'data'
+target = 'data'
+
+[[mounts]]
 source = 'layouts'
 target = 'layouts'
 
