@@ -1,4 +1,4 @@
-module github.com/dnb-org/dnb-hugo-pictures
+module github.com/davidsneighbour/hugo-pictures
 
 go 1.17
 
