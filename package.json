@@ -1,12 +1,12 @@
 {
-  "name": "@dnb-org/dnb-hugo-pictures",
+  "name": "@davidsneighbour/hugo-pictures",
   "version": "0.0.13",
   "license": "MIT",
   "description": "Image generation for Hugo",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
-  "homepage": "https://github.com/dnb-org/dnb-hugo-pictures",
+  "homepage": "https://github.com/davidsneighbour/hugo-pictures",
   "bugs": {
-    "url": "https://github.com/dnb-org/dnb-hugo-pictures/issues"
+    "url": "https://github.com/davidsneighbour/hugo-pictures/issues"
   },
   "devDependencies": {
     "@dnb-org/bootstrap-config": "^3.5.9",
