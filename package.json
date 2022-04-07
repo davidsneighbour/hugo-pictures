@@ -1,6 +1,6 @@
 {
   "name": "@davidsneighbour/hugo-pictures",
-  "version": "0.0.13",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "Image generation for Hugo",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
