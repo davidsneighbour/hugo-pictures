@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/dnb-org/dnb-hugo-pictures/compare/v0.1.0...v0.1.1) (2022-04-20)
+
+
+### Build System
+
+* update Github organization name & use newer dependencies ([#39](https://github.com/dnb-org/dnb-hugo-pictures/issues/39)) ([0d82d8d](https://github.com/dnb-org/dnb-hugo-pictures/commit/0d82d8d13c1c15bf960e08a7e17ae146d7ba96f6))
+
 ## [0.1.0](https://github.com/davidsneighbour/hugo-pictures/compare/v0.0.13...v0.1.0) (2022-04-07)
 
 
