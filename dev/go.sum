@@ -1,12 +1,4 @@
-github.com/dnb-org/components/functions v1.4.8/go.mod h1:+GMAcQaK260wZ6ioNPbQY/ruWdBxFxj9PPw7o5p7eu0=
-github.com/dnb-org/debug v1.4.1/go.mod h1:0z/MDK1qgyqHmMM8mSrexsoPSTpJgIsNu3r6nw5zHAU=
-github.com/dnb-org/debug v1.4.2 h1:APKrwZWrqxLBgDruqA3W+M5OYCAlzmppkj6neNEFXdg=
-github.com/dnb-org/debug v1.4.2/go.mod h1:0z/MDK1qgyqHmMM8mSrexsoPSTpJgIsNu3r6nw5zHAU=
-github.com/davidsneighbour/hugo-debug v1.4.3 h1:LbSxXq624VWkFEtoMJBaLuH7cXvZIXRYzzP6xiS4o2o=
-github.com/davidsneighbour/hugo-debug v1.4.3/go.mod h1:NWi/VpUDXC2GU5TLM7UEjL7HPT2WmgHgoURHTCVzTho=
-github.com/davidsneighbour/hugo-hooks v1.0.25 h1:2s44qMjzBJIn5NIF/etuBWlTHXBGYEApKt/pcOWetk8=
-github.com/davidsneighbour/hugo-hooks v1.0.25/go.mod h1:NmTtBQithLJG+Bsv5K3dCHv3GrdIFoRHf3x22BonNW4=
-github.com/davidsneighbour/hugo-hooks v1.1.0 h1:dmVi19eea7VytVKEK+Hkgzncon7rmWolHVFqjMKHwCA=
-github.com/davidsneighbour/hugo-hooks v1.1.0/go.mod h1:mWy5sE8Jqhg6YeNkAC5LUBI1iaNXyAtpmqsJmcr6JFo=
-github.com/dnb-org/hooks v1.0.20 h1:li71xDjs5H3pY44gbZHz+ex/K7uP/7Ej3YDgjkSRIxM=
-github.com/dnb-org/hooks v1.0.20/go.mod h1:pqjp732xSQs+EVXhfgFhhqmQRS1XAcIhVWDOSAZWd3s=
+github.com/davidsneighbour/hugo-debug v1.5.5 h1:uL8nKPr1yWVSWfutpORluAiyQmZ0Vr17NOTyl7933W8=
+github.com/davidsneighbour/hugo-debug v1.5.5/go.mod h1:ka0eftoPGqF1B0TUvAIvWOau96Y5XQKKGZ9DCb5NBz4=
+github.com/davidsneighbour/hugo-hooks v1.3.2 h1:weCI40J4z7OnBL9tEDSw/9qtmNOgqqQi43+JewjXtRo=
+github.com/davidsneighbour/hugo-hooks v1.3.2/go.mod h1:agUeSwS32vDxIHULp8fP/vnP6wOP9E2DdW44UZkdCUs=

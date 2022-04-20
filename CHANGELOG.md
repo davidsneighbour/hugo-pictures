@@ -2,38 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [0.1.0](https://github.com/dnb-org/dnb-hugo-pictures/compare/v0.0.13...v0.1.0) (2022-04-07)
+## [0.1.0](https://github.com/davidsneighbour/hugo-pictures/compare/v0.0.13...v0.1.0) (2022-04-07)
 
 
 ### Build System
 
-* update hook scripts ([4e395d0](https://github.com/dnb-org/dnb-hugo-pictures/commit/4e395d0f3c38a9dae386e0399f1212ba5b6e537f))
+* update hook scripts ([4e395d0](https://github.com/davidsneighbour/hugo-pictures/commit/4e395d0f3c38a9dae386e0399f1212ba5b6e537f))
 
 
 ### Chore
 
-* cleanup and path fixes after renaming ([4d8626e](https://github.com/dnb-org/dnb-hugo-pictures/commit/4d8626ee74955aecb97c478c5ef6a730411f4159))
-* **config:** add data configuration setup ([2aec25d](https://github.com/dnb-org/dnb-hugo-pictures/commit/2aec25d79e4465ab174406902c547fa3a25897a6))
-* **config:** add proper versionrc configuration ([d07dc66](https://github.com/dnb-org/dnb-hugo-pictures/commit/d07dc66d50116d440aa4d4fb5fcf41583f2e2503))
-* **config:** require Hugo 0.95.0 for break and continue functionality ([aa99bbe](https://github.com/dnb-org/dnb-hugo-pictures/commit/aa99bbeda27a99a50d3257cb3fa30b29ed32247f))
-* **config:** update dependabot configuration ([e73537a](https://github.com/dnb-org/dnb-hugo-pictures/commit/e73537a541551cdd8df740c2aad8baf3199ebdfe))
-* **config:** update header images ([2d50274](https://github.com/dnb-org/dnb-hugo-pictures/commit/2d5027461c323011dc8c820a98dc3ce51df1948f))
-* **deps:** update dependencies ([c24f1a7](https://github.com/dnb-org/dnb-hugo-pictures/commit/c24f1a7a4c3d56f0fd87fd243c780d6b523275c7))
-* **deps:** update dependencies ([b8a6167](https://github.com/dnb-org/dnb-hugo-pictures/commit/b8a616775295fd51144eab7b9501dda1937b79ab))
-* **deps:** update dependencies ([2285af3](https://github.com/dnb-org/dnb-hugo-pictures/commit/2285af33b3dbf4243a9007bee9e50654d069bb8d))
-* **deps:** update go module dependencies ([e4d56e7](https://github.com/dnb-org/dnb-hugo-pictures/commit/e4d56e79a2cc2fbfd2a7e8ec1927e2bc165359d3))
-* fix release hook paths ([c1d5e68](https://github.com/dnb-org/dnb-hugo-pictures/commit/c1d5e68cab7e80852d217dc86c0382b1efabb99b))
-* update go.mod ([0291654](https://github.com/dnb-org/dnb-hugo-pictures/commit/0291654611344ed29f04d0b9a7007d38f3af130a))
+* cleanup and path fixes after renaming ([4d8626e](https://github.com/davidsneighbour/hugo-pictures/commit/4d8626ee74955aecb97c478c5ef6a730411f4159))
+* **config:** add data configuration setup ([2aec25d](https://github.com/davidsneighbour/hugo-pictures/commit/2aec25d79e4465ab174406902c547fa3a25897a6))
+* **config:** add proper versionrc configuration ([d07dc66](https://github.com/davidsneighbour/hugo-pictures/commit/d07dc66d50116d440aa4d4fb5fcf41583f2e2503))
+* **config:** require Hugo 0.95.0 for break and continue functionality ([aa99bbe](https://github.com/davidsneighbour/hugo-pictures/commit/aa99bbeda27a99a50d3257cb3fa30b29ed32247f))
+* **config:** update dependabot configuration ([e73537a](https://github.com/davidsneighbour/hugo-pictures/commit/e73537a541551cdd8df740c2aad8baf3199ebdfe))
+* **config:** update header images ([2d50274](https://github.com/davidsneighbour/hugo-pictures/commit/2d5027461c323011dc8c820a98dc3ce51df1948f))
+* **deps:** update dependencies ([c24f1a7](https://github.com/davidsneighbour/hugo-pictures/commit/c24f1a7a4c3d56f0fd87fd243c780d6b523275c7))
+* **deps:** update dependencies ([b8a6167](https://github.com/davidsneighbour/hugo-pictures/commit/b8a616775295fd51144eab7b9501dda1937b79ab))
+* **deps:** update dependencies ([2285af3](https://github.com/davidsneighbour/hugo-pictures/commit/2285af33b3dbf4243a9007bee9e50654d069bb8d))
+* **deps:** update go module dependencies ([e4d56e7](https://github.com/davidsneighbour/hugo-pictures/commit/e4d56e79a2cc2fbfd2a7e8ec1927e2bc165359d3))
+* fix release hook paths ([c1d5e68](https://github.com/davidsneighbour/hugo-pictures/commit/c1d5e68cab7e80852d217dc86c0382b1efabb99b))
+* update go.mod ([0291654](https://github.com/davidsneighbour/hugo-pictures/commit/0291654611344ed29f04d0b9a7007d38f3af130a))
 
 ### 0.0.13 (2022-01-16)
 
 
 ### Chore
 
-* **deps:** update dependencies ([cb33b3c](https://github.com/dnb-org/dnb-hugo-pictures/commit/cb33b3cecf134455b695d83df8d6dc222b67747c))
-* fix repo layout and versioning ([8014d1b](https://github.com/dnb-org/dnb-hugo-pictures/commit/8014d1be8ab9171f7dddcc96d14ea93c54fbf4de))
-* initial commit, adding module config ([627b0db](https://github.com/dnb-org/dnb-hugo-pictures/commit/627b0dbfcc1b8a3c96184d4bb7a4ba871c7792e4))
-* initial commit, current version ([c98fb25](https://github.com/dnb-org/dnb-hugo-pictures/commit/c98fb2501f725a6df988f207023580f427da64df))
+* **deps:** update dependencies ([cb33b3c](https://github.com/davidsneighbour/hugo-pictures/commit/cb33b3cecf134455b695d83df8d6dc222b67747c))
+* fix repo layout and versioning ([8014d1b](https://github.com/davidsneighbour/hugo-pictures/commit/8014d1be8ab9171f7dddcc96d14ea93c54fbf4de))
+* initial commit, adding module config ([627b0db](https://github.com/davidsneighbour/hugo-pictures/commit/627b0dbfcc1b8a3c96184d4bb7a4ba871c7792e4))
+* initial commit, current version ([c98fb25](https://github.com/davidsneighbour/hugo-pictures/commit/c98fb2501f725a6df988f207023580f427da64df))
 
 ### [0.0.12](https://github.com/dnb-org/shortcodes/compare/pictures/v0.0.11...pictures/v0.0.12) (2021-10-29)
 
