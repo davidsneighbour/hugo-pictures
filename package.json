@@ -9,7 +9,7 @@
     "url": "https://github.com/davidsneighbour/hugo-pictures/issues"
   },
   "devDependencies": {
-    "@davidsneighbour/bootstrap-config": "^4.0.1",
+    "@davidsneighbour/bootstrap-config": "^4.0.2",
     "@davidsneighbour/cypress-config": "^4.0.1",
     "@davidsneighbour/eslint-config": "^4.0.1",
     "@davidsneighbour/prettier-config": "^4.0.1",
