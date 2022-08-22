@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/dnb-org/dnb-hugo-pictures/compare/v0.1.1...v0.1.2) (2022-08-22)
+
+
+### Features
+
+* gallery shortcode and partials ([e363e0c](https://github.com/dnb-org/dnb-hugo-pictures/commit/e363e0cb7759befad789c89ac451a51014c43ff9))
+
+
+### Chore
+
+* **deps:** update dependencies ([92c528e](https://github.com/dnb-org/dnb-hugo-pictures/commit/92c528ef757b5a81d655e8283010c43bc0fcc09f))
+
 ### [0.1.1](https://github.com/dnb-org/dnb-hugo-pictures/compare/v0.1.0...v0.1.1) (2022-04-20)
 
 
