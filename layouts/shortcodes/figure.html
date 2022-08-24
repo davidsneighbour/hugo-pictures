@@ -1,34 +1,3 @@
-{{- /***************************************************************************
-Possible call scenarios:
-
-With unnamed parameters (static images preferred):
-- {{< figure "path/to/image" / >}}
-- {{< figure "path/to/image" "alt-title" / >}}
-
-With named parameters:
-- {{< figure src="path/to/image" title="" alt="" / >}}
-- {{< figure src="path/to/image" title="" alt="" >}}caption{{< /figure >}}
-- {{< figure name="resource name" title="" alt="" >}}caption{< /figure >}}
-
-For now we think about device pixel ratios up to 4.
-
-Available Parameters:
-- name - resource name to show (resources are defined in frontmatter or it's the
-			filename of the image in a page bundle
-- src - image to show (optional). must be relative to the static folder
-- link - link the image to something
-- class - additional classes for the image
-- alt - alt attribute for the image (optional, suggested)
-- title - title attribute for the image (optional)
-- command - command for image processing (optional, required with options)
-- options - options for image processing (optional, required with command)
-- width - width of the image (optional)
-- height - height of the image (optional)
-
-Tagvariants:
-- {{< figure >}}Something{{< /figure }}
-- {{< figure />}}
-***************************************************************************/ -}}
 {{- /* PREPARATION */ -}}
 {{ $params := $.Params }}
 {{ $position := .Position }}
@@ -171,20 +140,6 @@ Tagvariants:
 {{- /***************************************************************************
 ******* ¯\_(ツ)_/¯ DEV NOTES
 
-in the final loop where the image is printed the $finalImage variable is a map
-with the following structure (using JSON for clarity):
 
-{
-	"name": "",
-	"src": "",
-	"height": 100,
-	"width": 100,
-	"title": "",
-	"alt": "",
-	"class": "",
-	"link": "link to put the image in, param `link` required on the shortcode",
-	"caption": "markdownified content of .Inner",
-	"srcset": "",
-}
 
 ༼ つ ◕_◕ ༽つ***************************************************************/ -}}
