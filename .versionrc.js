@@ -5,6 +5,9 @@ const localStandardVersion = {
     ...defaultStandardVersion.bumpFiles,
     { filename: "data/dnb/pictures/build.json", type: "json" },
   ],
+  skip: {
+    changelog: true
+  }
 };
 
 module.exports = {
