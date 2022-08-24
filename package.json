@@ -9,29 +9,16 @@
     "url": "https://github.com/davidsneighbour/hugo-pictures/issues"
   },
   "devDependencies": {
-    "@davidsneighbour/bootstrap-config": "^4.0.8",
-    "@davidsneighbour/cypress-config": "^4.0.8",
-    "@davidsneighbour/eslint-config": "^4.1.2",
-    "@davidsneighbour/prettier-config": "^4.0.8",
-    "@davidsneighbour/standard-version-config": "^4.0.8",
-    "@davidsneighbour/tools": "^4.0.9"
+    "@davidsneighbour/config": "^1.0.0",
+    "@davidsneighbour/eslint-config": "^4.1.2"
   },
   "scripts": {
     "clean": "run-p clean:**",
-    "clean:cypress": "rimraf tests/cypress/screenshots tests/cypress/videos",
     "clean:hugo": "rimraf dev/public dev/resources dev/.hugo_build.lock hugo.log",
     "clean:node": "rimraf node_modules package-lock.json",
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
     "release-major": "standard-version --release-as major -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
-    "release-next": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
-    "serve": "run-p serve:hugo",
-    "serve:hugo": "bin/dnb-hugo-dev-server",
-    "server": "npm run serve",
-    "test": "run-p test:server test:cypress",
-    "test:cypress": "cypress run",
-    "test:cypress:ide": "cypress open",
-    "test:ide": "run-p test:server test:cypress:ide",
-    "test:server": "./bin/dnb-hugo-test-server"
+    "release-next": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease"
   },
   "private": true
 }
