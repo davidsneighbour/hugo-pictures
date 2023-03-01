@@ -9,8 +9,8 @@
     "url": "https://github.com/davidsneighbour/hugo-pictures/issues"
   },
   "devDependencies": {
-    "@davidsneighbour/config": "^1.0.19",
-    "@davidsneighbour/eslint-config": "^4.1.7"
+    "@davidsneighbour/config": "^5.0.1",
+    "@davidsneighbour/eslint-config": "^5.0.14"
   },
   "scripts": {
     "clean": "run-p clean:**",
