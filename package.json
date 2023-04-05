@@ -1,7 +1,7 @@
 {
   "name": "@davidsneighbour/hugo-pictures",
   "description": "Image generation for Hugo",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
   "bugs": {
     "url": "https://github.com/davidsneighbour/hugo-pictures/issues"
