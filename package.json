@@ -7,7 +7,7 @@
     "url": "https://github.com/davidsneighbour/hugo-pictures/issues"
   },
   "devDependencies": {
-    "@davidsneighbour/eslint-config": "^5.1.13",
+    "@davidsneighbour/eslint-config": "^5.2.5",
     "@davidsneighbour/standard-version-config": "^5.0.16",
     "@davidsneighbour/tools": "^5.1.15"
   },
